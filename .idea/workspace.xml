@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08921838-cc18-44d1-9337-58c1baf7ec74" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/.1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS_images/5a852d84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS_images/9085f8b4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/.1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS_images/06cc800d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/.1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS_images/416c7011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/.1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS_images/c41f3926.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/.1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS_images/ec72ba94.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md" beforeDir="false" afterPath="$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md" afterDir="false" />
     </list>
@@ -20,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="374">
-                <caret line="158" column="128" selection-start-line="158" selection-start-column="128" selection-end-line="158" selection-end-column="128" />
+              <first_editor relative-caret-position="814">
+                <caret line="235" column="128" selection-start-line="235" selection-start-column="128" selection-end-line="235" selection-end-column="128" />
               </first_editor>
               <second_editor />
             </state>
@@ -214,7 +216,7 @@
       <updated>1531297847128</updated>
       <workItem from="1531297848662" duration="1106000" />
       <workItem from="1531299158483" duration="688000" />
-      <workItem from="1531300267802" duration="2833000" />
+      <workItem from="1531300267802" duration="4037000" />
     </task>
     <task id="LOCAL-00001" summary="Create a Simple Smart Contract or Chaincode">
       <created>1531298443146</created>
@@ -276,7 +278,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4627000" />
+    <option name="totallyTimeSpent" value="5831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -406,8 +408,8 @@
     <entry file="file://$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="374">
-            <caret line="158" column="128" selection-start-line="158" selection-start-column="128" selection-end-line="158" selection-end-column="128" />
+          <first_editor relative-caret-position="814">
+            <caret line="235" column="128" selection-start-line="235" selection-start-column="128" selection-end-line="235" selection-end-column="128" />
           </first_editor>
           <second_editor />
         </state>
