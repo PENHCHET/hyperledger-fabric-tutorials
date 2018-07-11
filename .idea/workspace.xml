@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08921838-cc18-44d1-9337-58c1baf7ec74" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Hyperledger Fabric v1.2 - Create a Simple Smart Contract or Chaincode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/0ee69f36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md" beforeDir="false" afterPath="$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Hyperledger Fabric v1.2 - Create a Simple Smart Contract or Chaincode.md" beforeDir="false" afterPath="$PROJECT_DIR$/2. Hyperledger Fabric v1.2 - Create a Simple Smart Contract or Chaincode.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,13 +15,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="945">
-                <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+              <first_editor relative-caret-position="118">
+                <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -36,12 +38,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2. Hyperledger Fabric v1.2 - Create a Simple Smart Contract or Chaincode.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2. Hyperledger Fabric v1.2 - Create a Simple Smart Contract or Chaincode.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2. Hyperledger Fabric v1.2 - Create a Simple Smart Contract or Chaincode.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="22">
-                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+                <caret line="1" selection-start-line="1" selection-end-line="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -63,8 +65,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md" />
         <option value="$PROJECT_DIR$/2. Hyperledger Fabric v1.2 - Create a Simple Smart Contract or Chaincode.md" />
+        <option value="$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md" />
       </list>
     </option>
   </component>
@@ -86,8 +88,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,11 +97,16 @@
               <item name="Build Blockchain Authentication Data Management System" type="b2602c69:ProjectViewProjectNode" />
               <item name="Build Blockchain Authentication Data Management System" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Build Blockchain Authentication Data Management System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Build Blockchain Authentication Data Management System" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -112,6 +119,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Build Blockchain Authentication Data Management System\assets" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Build Blockchain Authentication Data Management System" />
     </key>
@@ -199,46 +209,56 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531297847128</updated>
-      <workItem from="1531297848662" duration="458000" />
+      <workItem from="1531297848662" duration="1106000" />
+      <workItem from="1531299158483" duration="688000" />
+      <workItem from="1531300267802" duration="52000" />
     </task>
+    <task id="LOCAL-00001" summary="Create a Simple Smart Contract or Chaincode">
+      <created>1531298443146</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531298443146</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="458000" />
+    <option name="totallyTimeSpent" value="1846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="right" id="Mongo Explorer" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.23649178" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24403815" />
-      <window_info anchor="bottom" id="Profiler" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23649178" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24403815" />
+      <window_info anchor="bottom" id="Profiler" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,15 +267,44 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create a Simple Smart Contract or Chaincode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create a Simple Smart Contract or Chaincode" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/feature_graphics.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="814">
+            <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Hyperledger Fabric v1.2 - Create a Simple Smart Contract or Chaincode.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="945">
-            <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <first_editor>
+            <caret selection-end-line="35" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
@@ -274,6 +323,34 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="22">
             <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Hyperledger Fabric v1.2 - Create a Simple Smart Contract or Chaincode.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="118">
+            <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>
