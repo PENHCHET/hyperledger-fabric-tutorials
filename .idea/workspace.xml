@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08921838-cc18-44d1-9337-58c1baf7ec74" name="Default" comment="add create channel and join channel">
+    <list default="true" id="08921838-cc18-44d1-9337-58c1baf7ec74" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/.1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS_images/14e424f5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/.1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS_images/2e237eeb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/.1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS_images/459e0775.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md" beforeDir="false" afterPath="$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md" afterDir="false" />
     </list>
@@ -18,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="454">
-                <caret line="1111" column="194" selection-start-line="1111" selection-start-column="194" selection-end-line="1111" selection-end-column="194" />
+              <first_editor relative-caret-position="700">
+                <caret line="519" selection-start-line="519" selection-end-line="519" selection-end-column="128" />
               </first_editor>
               <second_editor />
             </state>
@@ -310,7 +313,7 @@
       <updated>1531297847128</updated>
       <workItem from="1531297848662" duration="1106000" />
       <workItem from="1531299158483" duration="688000" />
-      <workItem from="1531300267802" duration="9538000" />
+      <workItem from="1531300267802" duration="11691000" />
     </task>
     <task id="LOCAL-00001" summary="Create a Simple Smart Contract or Chaincode">
       <created>1531298443146</created>
@@ -403,11 +406,25 @@
       <option name="project" value="LOCAL" />
       <updated>1531376107708</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add on channel">
+      <created>1531378537902</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1531378537902</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add on channel">
+      <created>1531379249390</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1531379249390</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11332000" />
+    <option name="totallyTimeSpent" value="13485000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -458,7 +475,8 @@
     <MESSAGE value="add crypto-config" />
     <MESSAGE value="add image on executing the configtxgen tool and change the channel-artifact to config" />
     <MESSAGE value="add create channel and join channel" />
-    <option name="LAST_COMMIT_MESSAGE" value="add create channel and join channel" />
+    <MESSAGE value="add on channel" />
+    <option name="LAST_COMMIT_MESSAGE" value="add on channel" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md">
@@ -540,8 +558,8 @@
     <entry file="file://$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="454">
-            <caret line="1111" column="194" selection-start-line="1111" selection-start-column="194" selection-end-line="1111" selection-end-column="194" />
+          <first_editor relative-caret-position="700">
+            <caret line="519" selection-start-line="519" selection-end-line="519" selection-end-column="128" />
           </first_editor>
           <second_editor />
         </state>
