@@ -16,7 +16,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="740">
-                <caret line="1315" selection-start-line="1315" selection-end-line="1315" />
+                <caret line="1317" selection-start-line="1317" selection-end-line="1317" />
               </first_editor>
               <second_editor />
             </state>
@@ -62,7 +62,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="612" />
     <option name="y" value="782" />
     <option name="width" value="2574" />
@@ -307,7 +307,7 @@
       <updated>1531297847128</updated>
       <workItem from="1531297848662" duration="1106000" />
       <workItem from="1531299158483" duration="688000" />
-      <workItem from="1531300267802" duration="13632000" />
+      <workItem from="1531300267802" duration="14248000" />
     </task>
     <task id="LOCAL-00001" summary="Create a Simple Smart Contract or Chaincode">
       <created>1531298443146</created>
@@ -432,10 +432,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15426000" />
+    <option name="totallyTimeSpent" value="16042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -568,7 +569,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="740">
-            <caret line="1315" selection-start-line="1315" selection-end-line="1315" />
+            <caret line="1317" selection-start-line="1317" selection-end-line="1317" />
           </first_editor>
           <second_editor />
         </state>
