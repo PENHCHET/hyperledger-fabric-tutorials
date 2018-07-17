@@ -15,8 +15,8 @@
         <entry file="file://$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="740">
-                <caret line="1319" selection-start-line="1319" selection-end-line="1319" />
+              <first_editor relative-caret-position="637">
+                <caret line="1392" column="57" selection-start-line="1392" selection-start-column="57" selection-end-line="1392" selection-end-column="57" />
               </first_editor>
               <second_editor />
             </state>
@@ -63,8 +63,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="2007" />
+    <option name="y" value="160" />
     <option name="width" value="2576" />
     <option name="height" value="1416" />
   </component>
@@ -178,7 +178,7 @@
       <workItem from="1531297848662" duration="1106000" />
       <workItem from="1531299158483" duration="688000" />
       <workItem from="1531300267802" duration="14851000" />
-      <workItem from="1531462868684" duration="1201000" />
+      <workItem from="1531462868684" duration="1202000" />
     </task>
     <task id="LOCAL-00001" summary="Create a Simple Smart Contract or Chaincode">
       <created>1531298443146</created>
@@ -303,10 +303,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17846000" />
+    <option name="totallyTimeSpent" value="17847000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="2552" y="160" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -316,7 +317,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.110415034" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.15376227" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.23649178" />
@@ -458,8 +459,8 @@
     <entry file="file://$PROJECT_DIR$/1. Hyperledger Fabric v1.2 - Create a Development Business Network on Ubuntu 16.04 LTS.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="740">
-            <caret line="1319" selection-start-line="1319" selection-end-line="1319" />
+          <first_editor relative-caret-position="637">
+            <caret line="1392" column="57" selection-start-line="1392" selection-start-column="57" selection-end-line="1392" selection-end-column="57" />
           </first_editor>
           <second_editor />
         </state>
